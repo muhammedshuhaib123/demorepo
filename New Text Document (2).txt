@@ -1,0 +1,9 @@
+git config --global user.name "user of Github"
+git config --global user.email "email of Github"
+
+
+git init
+git add .
+git remote add origin "url"
+git commit -m "commit label"
+git push -u origin master
